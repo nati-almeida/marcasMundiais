@@ -1,0 +1,24 @@
+{
+  "name": "marcasmundiais",
+  "version": "1.0.0",
+  "description": "marcasMundias",
+  "homepage": "https://github.com/nati-almeida/marcasMundiais#readme",
+  "bugs": {
+    "url": "https://github.com/nati-almeida/marcasMundiais/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nati-almeida/marcasMundiais.git"
+  },
+  "license": "ISC",
+  "author": "Natalia",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
